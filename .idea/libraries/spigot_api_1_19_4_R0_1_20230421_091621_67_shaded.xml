@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spigot-api-1.19.4-R0.1-20230421.091621-67-shaded">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Minecraft_Spigot_Server/spigot-api-1.19.4-R0.1-20230421.091621-67-shaded.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

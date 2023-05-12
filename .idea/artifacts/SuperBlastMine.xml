@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SuperBlastMine">
+    <output-path>$PROJECT_DIR$/out/artifacts/SuperBlastMine</output-path>
+    <root id="archive" name="SuperBlastMine.jar">
+      <element id="module-output" name="SuperBlastMine" />
+    </root>
+  </artifact>
+</component>

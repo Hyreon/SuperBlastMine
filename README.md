@@ -1,2 +1,2 @@
 # SuperBlastMine
-TNT doesn't destroy dropped items.
+Entity explosions now all have 100% yield, and no longer destroy dropped items.
